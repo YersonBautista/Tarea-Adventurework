@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adventureworks-315120",
+  "private_key_id": "80fd5417fb17bcd88e549cde65bf5d7c01b39f85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCu+6uuybmOFLpg\nqujCgmL8elGoOAmW96LRAExHCh5m5ENUUuFxjKQHZ4upY1itncfD5vVavky/IIOF\nHIhVpoMozzUu7/hhs1/CENVTx1Ga+4rWXPlygt2G9ks2gJI+EkRvCA+XudYo1i5j\nlpt1wQtBVy9n/592nrfX3MJLDsnTbAEy+1pwNxxRRjNI3yFYfHzxSnjOzNP2uQD1\nRG5IRXHVk/VPouLlOMEV9kHmdEiIeEkjqEqfOQuuuT2nPv2ysOsNv5XqYgDVs3nc\n+SrDO0JJaa4meIhY54UJUDvoMcw2zF9AdOoCNJglzv5w69vT/hTMKcRho8KHDpGe\nK6E7HA1pAgMBAAECggEADyXvZ2rEOwYVWnABRXF3M0c9kXQEdILMoA5IDDBWkG67\nW23vYV6dBp0SrJ/SmfkaRZ3VaL0ntLYSXLArJ0sKeLpzbrRMity18f12ElIjgOi8\nzLDw0VZ96gShXz8DKgd30Crg+rAWV6OvEWUE4U1MdaQgEP9CpUi5PqE4WroVg81l\nnYYnoByfZ+C3PYtm/MZtNw9xhQUahE4YTobtcC1GQWQ+gdrG13HPjSKEdFIWc3c8\nQqx6l73YjijY7gvH4ZBRdWNdJ4h0SXICHicYnGBL6OjKNk3lpno9UxoJNEjRZAJl\nBRyvZtg+97DD3St9DJ2/DByCKqKvqYoKvEJohDImQQKBgQDe1V2NB1HTWMi4ptSH\nGvUsT1QSM1Qz1ixIhcYS9VJ5zjqMfdHI+07XBUyYsjYleQXAp1yH7TGg9QGl8n6O\nM25yyMeGpzKYRRsRNAEYRLJd5nGxcG/JHuLI5But1B8qSu9Of2KSBwwF854kTzUO\n4lEd/3HaiqwXPVwJDXkEKypCkQKBgQDJBw9j8o1GD23iT8zOcEWvdQ8UN1E1sDaZ\nls6QESbLawYeYuTbGAWHedEMaYesdGCE7MwHz/4nSlCwDeF9oJiKBABQpiIJs0Ih\n8k4nOqccaz1VkyCYldME9Pnh7F1Hb9Uq8n5dgddWWDIXKYbe/PcjKT0Z6SiF2VWR\n0v+C+h7ZWQKBgQCag9Eu7ZhruPDWObi9RpAjfY6KYFVO7IAgecJzevEJzVsD+Grz\ntm9g4ifO6iRpr5WxlVuwVWVIexv9ej0PVdKMfXT9hgqrU6AFOc5Yiao1OoozxAd/\nqo8PRj17N8+0f+mYwPQU1hYcOmW6P8JG49/jsTG9nNLf+ohLLrBvl47iQQKBgQCB\nY3/ubsGrZGbvkTlbbjwMEKYh9vDYQ5EBDmXpqIB10W7gw/pVYoK8jhWVjZ77yvQM\n2nUAWklVdKm2h1ipiWJlAupI/oVOBQj93H2dFk1VJ1kU6VvDmjt2J09msMHhJwPn\nXqki+l1lf+LNsbbTc7KF+RcQxFeGvzoqX8qBvQd6EQKBgFaAzQGF1xbNl/hRsb8G\nLhGedczn9JMWG+OY3PphPW0ZarNEhMlH3bEEMfqyOdABmLQq0FmSJ8LPO7BDHoaU\nLCOK2xqLG9XpxmnLhRHqtwwTtRwfe2JdvgVKI04vM1CsiBSpyKIrFSwJS10HvCy+\nN73S/qMQPXl6AFGfhDOb2qYD\n-----END PRIVATE KEY-----\n",
+  "client_email": "yersonbautista@adventureworks-315120.iam.gserviceaccount.com",
+  "client_id": "100578675444022874775",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yersonbautista%40adventureworks-315120.iam.gserviceaccount.com"
+}
